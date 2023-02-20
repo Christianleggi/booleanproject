@@ -1,0 +1,12 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url(CodingChallenge.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
